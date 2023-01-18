@@ -1,6 +1,6 @@
 # 42Seoul_Picine	
-|#	|SUBJECT							|Stack    |STATUS
-|:-:|:--								  |:-:		  |--:		|
+|No.	|Project							|Stack    |Status   |Subject
+|:-:  |:--								  |:-:		  |--:		  |--:        |
 |00	|[Eu aceito](./eu_aceito)			|N/A		|-				|0 XP		|100% :heavy_check_mark:	|level 0 - 0%	|
 |01	|[Shell 00](./c_piscine_shell_00)	|Shell		|about 1 day	|100 XP		|100% :heavy_check_mark:	|level 0 - 88%	|
 |02	|Exam 00							|C			|about 4 hours	|225 XP		|48% :heavy_check_mark:		|level 1 - 73%	|
