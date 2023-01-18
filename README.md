@@ -22,4 +22,4 @@
 |19	  |[**C 10**](./c10)	  |C		    |❌        |[Subject](./c10/resource/c10.pdf)|
 |19	  |[**C 11**](./c11)	  |C		    |❌        |[Subject](./c11/resource/c11.pdf)|
 |20	  |**Final Exam**       |C		    |✅&nbsp;&nbsp;84%     |- |      
-|	  |**Final Level**        |		      |⭐️10-69%⭐️   |- | 
+|	  |**Final Level**        |		      |⭐️ 10-69% ⭐️   | | 
