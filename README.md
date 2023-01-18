@@ -1,7 +1,7 @@
 # 42Seoul_Picine	
 |No.	|Project							|Stack    |Status   |Subject
 |:-:  |:--								  |:-:		  |--:		  |--:        |
-|01	  |[**Shell 00**](./shell00)	|Shell		|100% : ✅|[Subject](./shell00/resource/shell00.pdf)|
+|01	  |[**Shell 00**](./shell00)	|Shell		|100% ✅ |[Subject](./shell00/resource/shell00.pdf)|
 |02	|Exam 00							|C			|about 4 hours	|225 XP		|48% :heavy_check_mark:		|level 1 - 73%	|
 |03	|[Shell 01](./c_piscine_shell_01)	|Shell		|about 1 day	|100 XP		|100% :heavy_check_mark:	|level 2 - 45%	|
 |04	|[Rush 00](./c_piscine_rush_00)		|C			|2 days			|150 XP		|0% :x:						|-				|
