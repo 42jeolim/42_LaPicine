@@ -2,7 +2,7 @@
 |No.	|Project							|Stack    |Status   |Subject
 |:-:  |:--								  |:-:		  |--:      |--:    |
 |01	  |[**Shell 00**](./shell00)	|Shell		|✅100%|[Subject](./shell00/resource/shell00.pdf)|
-|02	  |[**Exam 00**]        |C		    |✅ 80%     |--:    |
+|02	  |[**Exam 00**]        |C		    |✅  80%     |--:    |
 |03	  |[**Rush 00**](./rush00)	|C		|✅100%    |--:    |
 |04	  |[**Shell 01**](./shell01)	|Shell		|✅100%|[Subject](./shell01/resource/shell01.pdf)|
 |05	  |[**C 00**](./c00)	  |C		    |✅100%    |[Subject](./c00/resource/c00.pdf)|
