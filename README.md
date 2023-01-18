@@ -8,7 +8,7 @@
 |05	  |[**C 00**](./c00)	  |C		    |✅100%    |[Subject](./c00/resource/c00.pdf)|
 |06	  |[**C 01**](./c01)	  |C		    |✅100%    |[Subject](./c01/resource/c01.pdf)|
 |07	  |**Exam 01**          |C		    |✅&nbsp;&nbsp;80%     |--:|
-|08	  |[**Rush 01**](./rush01)	|C		|✅110%    |--: |
+|08	  |[**Rush 01**](./rush01)	|C		|✅&nbsp;110%    |--: |
 |09	  |[**C 02**](./c01)	  |C		    |✅100%    |[Subject](./c02/resource/c02.pdf)|
 |10	  |[**C 03**](./c03)	  |C		    |✅100%    |[Subject](./c03/resource/c03.pdf)|
 |11	  |[**C 04**](./c04)	  |C		    |✅100%    |[Subject](./c04/resource/c04.pdf)|
