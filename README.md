@@ -2,8 +2,8 @@
 |No.	|Project							|Stack    |Status   |Subject  |Date
 |:-:  |:--								  |:-:		  |--:      |-    | -
 |01	  |[**Shell 00**](./shell00)	|Shell		|✅100%|[Subject](./shell00/resource/shell00.pdf)| 2022-5-18 |
-|02	  |**Exam 00**          |C		    |✅&nbsp;&nbsp;80%     |-| |2022-5-20 |
-|03	  |[**Rush 00**](./rush00)	|C		|✅100%    |-    |  |2022-5-22 |
+|02	  |**Exam 00**          |C		    |✅&nbsp;&nbsp;80%     |-| 2022-5-20 |
+|03	  |[**Rush 00**](./rush00)	|C		|✅100%    |-    |  2022-5-22 |
 |04	  |[**Shell 01**](./shell01)	|Shell		|✅100%|[Subject](./shell01/resource/shell01.pdf)| 2022-5-22 |
 |05	  |[**C 00**](./c00)	  |C		    |✅100%    |[Subject](./c00/resource/c00.pdf)| 2022-5-23 |
 |06	  |[**C 01**](./c01)	  |C		    |✅100%    |[Subject](./c01/resource/c01.pdf)| 2022-5-24 |
@@ -21,5 +21,5 @@
 |18	  |[**C 09**](./c09)	  |C		    |✅100%    |[Subject](./c09/resource/c09.pdf)| 2022-6-08 |
 |19	  |[**C 10**](./c10)	  |C		    |❌        |[Subject](./c10/resource/c10.pdf)| - |
 |19	  |[**C 11**](./c11)	  |C		    |❌        |[Subject](./c11/resource/c11.pdf)| - |
-|20	  |**Final Exam**       |C		    |✅&nbsp;&nbsp;84%     |- |. 2022-6-10 |     
+|20	  |**Final Exam**       |C		    |✅&nbsp;&nbsp;84%     |- | 2022-6-10 |     
 |	  |**Final Level**        |		      |⭐️ 10-69% ⭐️   | | 
